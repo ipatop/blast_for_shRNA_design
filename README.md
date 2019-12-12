@@ -1,4 +1,4 @@
-# Blast for shRNA design of targets search
+# shblast: Blast for shRNA design of targets search
 
 This python script implements qblast from Biopython on shRNA sequences.
 
